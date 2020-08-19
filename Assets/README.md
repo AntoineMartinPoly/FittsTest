@@ -1,6 +1,6 @@
 # VR Fitts Test
 
-This unity project is part of a phD research by Maxime Hébert-Lavoie. It is a VR adaptation of a [Fitts Test!](https://www.yorku.ca/mack/FittsLawSoftware/) with graphics degradation.
+This unity project is part of a PhD research by Maxime Hébert-Lavoie. It is a VR adaptation of a [Fitts Test!](https://www.yorku.ca/mack/FittsLawSoftware/) with graphics degradation.
 
 ## Requirements
 
@@ -12,7 +12,7 @@ This unity project is part of a phD research by Maxime Hébert-Lavoie. It is a V
 
 ## How to run it
 
-* Set up your steamVR and your eye calibration
+* Set up your SteamVR and your eye calibration
 * Build and run the scene
 	* Two screen will appear, one for the VR view and one for the menu
 * Enter test parameters
