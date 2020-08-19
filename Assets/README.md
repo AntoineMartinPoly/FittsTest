@@ -1,4 +1,4 @@
-### VR Fitts Test
+# VR Fitts Test
 
 This unity project is part of a phD research by Maxime Hébert-Lavoie. It is a VR adaptation of a [Fitts Test!](https://www.yorku.ca/mack/FittsLawSoftware/) with graphics degradation.
 
