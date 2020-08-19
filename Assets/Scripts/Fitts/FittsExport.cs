@@ -13,7 +13,7 @@ namespace Assets.Scripts
     {
         public static bool exportIsOn;
         public static string participantID { get; set; }
-        public static string path = @"C:\Users\antoi\OneDrive - polymtl.ca\stage\Unity\Fitts Test Data\test unity\last_test";
+        public static string path = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory) + @"\Fitts_Test_Data";
 
         private static StringBuilder sbTrajectory;
         private static StringBuilder sbSequenceStats;
@@ -24,7 +24,7 @@ namespace Assets.Scripts
 
         static FittsExport()
         {
-
+            Directory.CreateDirectory(path);
             delimiter = ",";
         }
 
