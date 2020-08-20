@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Fitts_Test.unity
+    path: Assets/Store/Scenes/Fitts_Test.unity
     guid: 6cfe3beb63e58e443b3c8e5946b53998
   m_configObjects: {}

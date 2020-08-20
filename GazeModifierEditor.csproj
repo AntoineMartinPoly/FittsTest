@@ -284,6 +284,9 @@
     <Reference Include="Valve.Newtonsoft.Json">
       <HintPath>C:/Users/Philippe/Desktop/Unity/Fitts Test/Assets/SteamVR/Input/Plugins/JSON.NET/Valve.Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="AssetStoreTools">
+      <HintPath>C:/Users/Philippe/Desktop/Unity/Fitts Test/Assets/AssetStoreTools/Editor/AssetStoreTools.dll</HintPath>
+    </Reference>
     <Reference Include="nunit.framework">
       <HintPath>C:/Users/Philippe/Desktop/Unity/Fitts Test/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
