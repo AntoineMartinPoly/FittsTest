@@ -27,7 +27,6 @@ public class FittsTest
 
         currentFittsSequence = fittsSequences[fittsIndex.Pop()];
         currentFittsSequence.StartSequence();
-
     }
 
     public void RecordTriggerEventAndSetNewTarget(Vector3 pos, FittsTime time, bool trialIsError)
